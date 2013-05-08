@@ -1,0 +1,24 @@
+[submodule "vagrant-recipes/apt"]
+	path = vagrant-recipes/apt
+	url = git://github.com/opscode-cookbooks/apt.git
+[submodule "vagrant-recipes/build-essential"]
+	path = vagrant-recipes/build-essential
+	url = git://github.com/opscode-cookbooks/build-essential.git
+[submodule "vagrant-recipes/vim"]
+	path = vagrant-recipes/vim
+	url = git://github.com/opscode-cookbooks/vim.git
+[submodule "vagrant-recipes/mysql"]
+	path = vagrant-recipes/mysql
+	url = git://github.com/opscode-cookbooks/mysql.git
+[submodule "vagrant-recipes/memcached"]
+	path = vagrant-recipes/memcached
+	url = git://github.com/opscode-cookbooks/memcached.git
+[submodule "vagrant-recipes/php"]
+	path = vagrant-recipes/php
+	url = git://github.com/opscode-cookbooks/php.git
+[submodule "vagrant-recipes/apache2"]
+	path = vagrant-recipes/apache2
+	url = git://github.com/opscode-cookbooks/apache2.git
+[submodule "vagrant-recipes/openssl"]
+	path = vagrant-recipes/openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
